@@ -4,6 +4,6 @@ import { defineConfig } from "vite";
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: "/vite-tester/", // replace with the repo name
+  base: "/task-log-2025/",
   assetsInclude: ["**/*.gltf"],
 });
